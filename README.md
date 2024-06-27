@@ -1,4 +1,4 @@
-# DEALIFY
+# DEALIFY (Grade: 19.1)
 ​
 ## Group ltw13g02
 ​
